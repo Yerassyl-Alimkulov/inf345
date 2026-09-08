@@ -4,4 +4,4 @@
 how to fork and commit
 
 ## A command I want to remember
-(replace this line with an actual command and when you'd use it)
+git commit -m "commit message". I use it to save my changes in the repo
